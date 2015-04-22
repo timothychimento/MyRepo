@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test file 2
+=======
+First test file to repo with changes 4-22-15
+>>>>>>> parent of 703a396... Revert "commit 2"
